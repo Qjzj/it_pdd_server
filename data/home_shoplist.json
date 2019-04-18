@@ -1,0 +1,2022 @@
+{
+  "data": [
+    {
+      "goods_id": 65138199,
+      "goods_name": "【买二送一】牛津布防水收纳袋被子搬家旅行李袋手提箱整理衣服袋",
+      "short_name": "加厚防水收纳袋",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-09-16/015e4bc84e754f6eeefb0237baf87a57.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-03/f53dd068b195042626fd3722c552e9a9.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-03/e232551ece4de51e584678c12e313d1f.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 590,
+        "customer_num": 2
+      },
+      "cnt": 931924,
+      "market_price": 9800,
+      "normal_price": 1290,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.013_0.055",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.007",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0069\",\"cvrs\":\"0.0549\",\"ctrs\":\"0.0130\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 990
+      },
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=65138199",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-01-03/ad1857c4-a58c-4cbf-83d8-ff4598d2fa88.jpg"
+    },
+    {
+      "goods_id": 399940787,
+      "goods_name": "子丹保罗【纽扣款/拉链款可选】秋冬男外套中年男士皮衣夹克男装",
+      "short_name": "子丹保罗款式可选皮衣",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-12-24/5f431b3a722ff39ac02dd801f9fd062f.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-02-12/f73d0b3e56ad49f9cd3625e686fc7dc2.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-02-12/e2fe8403dc48d9ecbf0b502df26f1925.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 3990,
+        "customer_num": 2
+      },
+      "cnt": 369328,
+      "market_price": 119900,
+      "normal_price": 16800,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.014_0.020",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.010",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0103\",\"cvrs\":\"0.0202\",\"ctrs\":\"0.0144\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "子丹保罗服饰旗舰店",
+        "price_type": 1,
+        "group_price": 7900
+      },
+      "tag_list": [
+        {
+          "text": "本周夹克畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=399940787",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-24/f0c6a61195a092523684dd382cce1d96.jpeg"
+    },
+    {
+      "goods_id": 2660784151,
+      "goods_name": "花花公子贵宾长袖T恤【薄款/加绒】中年男秋冬装翻领针织衫爸爸装",
+      "short_name": "花花公子贵宾T恤男士秋冬条纹T恤爸爸装",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-20/90a78071916f53db4ccb3561eebb3380.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-10/80e3792aab31c39bd72771c4c6e273cd.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-10/66610d0df3c795de394a4066b41c21fd.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 2990,
+        "customer_num": 2
+      },
+      "cnt": 170983,
+      "market_price": 19900,
+      "normal_price": 5090,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.009_0.046",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.005",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0054\",\"cvrs\":\"0.0465\",\"ctrs\":\"0.0091\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "君君家服饰专营店",
+        "price_type": 1,
+        "group_price": 4990
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=2660784151",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-08-20/a24ea1566ac0eb6d3a461392f41f4f2c.jpeg"
+    },
+    {
+      "goods_id": 1482020167,
+      "goods_name": "浩迪304食品级不锈钢大容量保温杯男女水杯户外商务旅行便携杯子",
+      "short_name": "大容量304保温杯",
+      "image_url": "http://t00img.yangkeduo.com/t02img/images/2018-05-23/d54c50ae995264ac8ef8cae2494d9af7.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-27/efaa8368d7b70740b4040006bb50c9af.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-27/f7e71df48786421f89bb4a4f6be6ae4a.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1490,
+        "customer_num": 2
+      },
+      "cnt": 1057769,
+      "market_price": 16800,
+      "normal_price": 1790,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.012_0.051",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.006",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0062\",\"cvrs\":\"0.0510\",\"ctrs\":\"0.0121\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "浩迪旗舰店"
+      },
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=1482020167",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2018-12-27/65fa3924-0522-4687-ad5b-423d71e668b3.jpg"
+    },
+    {
+      "goods_id": 900141151,
+      "goods_name": "神奇水雾魔珠手工制作水粘珠diy魔法豆益智拼图男女孩儿童玩具",
+      "short_name": "神奇水雾魔法珠",
+      "image_url": "http://t00img.yangkeduo.com/t08img/images/2018-04-02/1b1256cae62783ffcf461f504bbe2485.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/t05img/images/2018-06-03/e37c68d8371eae8d5d6cc810912b2f66.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/t04img/images/2018-06-03/ab7998f74b678d635dc94a51790cdece.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 690,
+        "customer_num": 2
+      },
+      "cnt": 339749,
+      "market_price": 29800,
+      "normal_price": 900,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.025_0.025",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.003",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0035\",\"cvrs\":\"0.0251\",\"ctrs\":\"0.0246\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "本周积木畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "退货包运费",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=900141151",
+      "hd_url": "http://t09img.yangkeduo.com/images/2018-03-21/77126f7112dd23f7c586df618c889479.jpeg"
+    },
+    {
+      "goods_id": 2765821068,
+      "goods_name": "[40卷/30卷/20卷/10卷]丽邦竹浆纸天然本色不漂白卫生纸批发家用",
+      "short_name": "丽邦竹浆纸卷纸不漂白卫生纸家用卷纸批发",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-09-30/399dcbc8ca6fb63efa23fbc63f828ca9.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-30/4e1bdb119ff4d2d46c23bc9fcb61e469.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-30/0394417ed0cb06746ae65d56736abcb0.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 890,
+        "customer_num": 2
+      },
+      "cnt": 211734,
+      "market_price": 9900,
+      "normal_price": 1290,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.012_0.061",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.017",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0172\",\"cvrs\":\"0.0607\",\"ctrs\":\"0.0123\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "丽邦旗舰店",
+        "price_type": 1,
+        "group_price": 990
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=2765821068",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-09-30/05e1d8596dfaba30f6858c4a00534d07.jpeg"
+    },
+    {
+      "goods_id": 1153506512,
+      "goods_name": "耐磨工作服套装男 单上衣 裤子可选防烫电焊汽修厂焊工工装劳保服",
+      "short_name": "工作服套装男 电焊工劳保服 长袖棉布",
+      "image_url": "http://t00img.yangkeduo.com/t08img/images/2018-04-28/c138859cea7ea42ee3571511800bd732.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-30/b950dfd49c59531e8649850f00cb1ec8.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-30/5a5e0f6010283a34fb4b15e00abd16ba.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 4250,
+        "customer_num": 2
+      },
+      "cnt": 190910,
+      "market_price": 10000,
+      "normal_price": 5300,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.022_0.013",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0036\",\"cvrs\":\"0.0130\",\"ctrs\":\"0.0223\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 4990
+      },
+      "tag_list": [
+        {
+          "text": "本周制服畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "退货包运费",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=1153506512",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-09-30/20ca97fd46248be3c2a20347ff82d5b5.jpeg"
+    },
+    {
+      "goods_id": 5340009834,
+      "goods_name": "2019新款ins草莓高帮帆布鞋女原宿韩版潮ulzzang学生软妹百搭板鞋【预售：3月5日发完】",
+      "short_name": "2019新款草莓高低帮帆布鞋",
+      "image_url": "https://t00img.yangkeduo.com/goods/images/2018-12-30/3d377675-2d04-4855-ac6a-c7eb764a322e.jpg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-19/fa269bcb099d73ebea38b5a1effe2a96.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-19/7dda32f4eccfc38a41675a254bad1b3e.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 3799,
+        "customer_num": 2
+      },
+      "cnt": 20216,
+      "market_price": 22900,
+      "normal_price": 4990,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.022_0.014",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.006",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0064\",\"cvrs\":\"0.0137\",\"ctrs\":\"0.0220\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 4500
+      },
+      "tag_list": [
+        {
+          "text": "本周帆布鞋畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼2万件",
+      "link_url": "goods.html?goods_id=5340009834",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-01-19/8e24babf-33e5-4cad-8670-33e4e8a1617f.jpg"
+    },
+    {
+      "goods_id": 117094043,
+      "goods_name": "【香水小清新】女神香水礼盒4瓶多规格清新持久淡香学生香水女士",
+      "short_name": "女神香水4瓶装100ml",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-07-17/3742b873ad33161ab365cdd0505c9b1e.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/t10img/images/2018-07-17/904f24333b3695e5714cd2d00e2412f0.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-07-17/642ddad81cd8781e4c580f3480b262d3.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 790,
+        "customer_num": 2
+      },
+      "cnt": 630054,
+      "market_price": 3900,
+      "normal_price": 990,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.014_0.054",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0042\",\"cvrs\":\"0.0541\",\"ctrs\":\"0.0138\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=117094043",
+      "hd_url": "http://t00img.yangkeduo.com/t03img/images/2018-07-17/4234e9fa937df20c47408c55c2805678.jpeg"
+    },
+    {
+      "goods_id": 6257680,
+      "goods_name": "2018冬装加绒蕾丝衫长袖T恤女保暖修身高领网纱打底衫加厚上衣服",
+      "short_name": "2018冬装加绒长袖蕾丝衫女",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-11-04/3782332885c27354184e3b842701acd0.png",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-03/a5e040c0872bf49a89bdaf751a760efe.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-03/04270739a325af1fc645f4394433e45f.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 750,
+        "customer_num": 2
+      },
+      "cnt": 1286932,
+      "market_price": 6500,
+      "normal_price": 1580,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.019_0.029",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.005",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0049\",\"cvrs\":\"0.0292\",\"ctrs\":\"0.0190\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 1180
+      },
+      "tag_list": [
+        {
+          "text": "本周T恤畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        },
+        {
+          "text": "立减1元",
+          "text_color": "#FF5706",
+          "type": 1
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=6257680",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-03/8af9e6f473b59369a88822b30d45998b.jpeg"
+    },
+    {
+      "goods_id": 5301584516,
+      "goods_name": "丸子头假发包头饰造型发包九朵花爪夹假发圈女生盘发器抓夹花苞头",
+      "short_name": "丸子头假发包头饰造型发包九朵花爪夹假发圈女生盘发器抓夹花苞头",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-12-28/b2b12af2527a541de63cbf76b6df8b13.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-28/d7ef36f6244a9084673e87890250c5c4.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-28/d9a9bb91ff5f8ebd4787e067f8d71d95.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 819,
+        "customer_num": 2
+      },
+      "cnt": 4732,
+      "market_price": 22880,
+      "normal_price": 1480,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.017_0.036",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.006",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"HANOI_jj-level_rt\",\"mscore\":\"2.0056\",\"cvrs\":\"0.0360\",\"ctrs\":\"0.0172\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "HANOI_jj",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "古源旗舰店",
+        "price_type": 1,
+        "group_price": 1280
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼4732件",
+      "link_url": "goods.html?goods_id=5301584516",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-28/b32b421dc09dbb3a820546c761766c09.jpeg"
+    },
+    {
+      "goods_id": 2843885676,
+      "goods_name": "嗨吃家酸辣粉网红6桶装整箱夜宵即食方便速食重庆红薯粉丝",
+      "short_name": "丝黛尔嗨吃家酸辣粉6桶装",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-11-29/9358bf7b34c14c42af280f41e801889f.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-04/8ac340ae171d48f35d2a2bc99a350f15.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-04/69c6406e0d66a8983770f8eb2f5fcf93.jpeg",
+      "is_app": 0,
+      "event_type": 2,
+      "group": {
+        "price": 2480,
+        "customer_num": 2
+      },
+      "cnt": 399362,
+      "market_price": 4500,
+      "normal_price": 3580,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.012_0.041",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.007",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0068\",\"cvrs\":\"0.0405\",\"ctrs\":\"0.0121\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "本周面条畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=2843885676",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-11-28/a03b740a5ebe39754affd502f61fa746.jpeg"
+    },
+    {
+      "goods_id": 3257237868,
+      "goods_name": "林小宅同款学生可爱发夹头饰日韩版糖果色彩色bb夹儿童刘海夹边夹",
+      "short_name": "滴油头饰糖果色儿童发夹子bb夹刘海夹边夹",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-12-17/6c491b7c9f481e19819790a7ff759c97.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-15/343acc8ea57f5d9cc4680b5e817a2929.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-15/14b4ca277107ca5fda456e294a669094.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 380,
+        "customer_num": 2
+      },
+      "cnt": 34461,
+      "market_price": 1700,
+      "normal_price": 480,
+      "p_rec": {
+        "fScore": "0.009",
+        "ctvr": "0.030_0.025",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0038\",\"cvrs\":\"0.0252\",\"ctrs\":\"0.0301\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼3.4万件",
+      "link_url": "goods.html?goods_id=3257237868",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-15/4f86cb117e68eb3ba42e86047b568f06.jpeg"
+    },
+    {
+      "goods_id": 4331030024,
+      "goods_name": "老爹鞋女2019春季新款韩版百搭原宿学生韩版女运动休闲鞋网红超火",
+      "short_name": "老爹鞋女冬季韩版百搭",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-11-20/9bfc82b9f2f1c26b3ed74eb80b331c21.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-02-10/4701658f36956dfb5fc566f21b276cff.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-02-10/9e215b3c130a370a9898835fa8b4747c.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1980,
+        "customer_num": 2
+      },
+      "cnt": 184595,
+      "market_price": 18800,
+      "normal_price": 2480,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.029_0.013",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.007",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0075\",\"cvrs\":\"0.0130\",\"ctrs\":\"0.0285\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "果意娜女鞋旗舰店"
+      },
+      "tag_list": [
+        {
+          "text": "本周低帮鞋畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=4331030024",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2018-11-20/15db63d0fd4902ed5c2c0e998037998d.jpeg"
+    },
+    {
+      "goods_id": 94268471,
+      "goods_name": "秋冬(加绒/不加绒) 加绒印花仿牛仔打底裤女士长裤高弹力抗起球",
+      "short_name": "加绒春冬仿牛仔印花打底裤外穿女",
+      "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-09-24/bd20fd4cf3c6dc570af6b3d9b1cc9d04.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/t05img/images/2018-06-13/889450764ab406546d0168124510ba2c.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/t05img/images/2018-06-13/846a51cfc34b67fa1f91d72a382b5e34.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 658,
+        "customer_num": 2
+      },
+      "cnt": 550524,
+      "market_price": 2190,
+      "normal_price": 1990,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.020_0.029",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0043\",\"cvrs\":\"0.0288\",\"ctrs\":\"0.0204\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 890
+      },
+      "tag_list": [
+        {
+          "text": "本周打底裤畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=94268471",
+      "hd_url": "http://t02img.yangkeduo.com/images/2018-03-05/e940a790305b0334b272faaa15938fbb.jpeg"
+    },
+    {
+      "goods_id": 2826642062,
+      "goods_name": "两条装【唐幂】新款收腹内裤女高腰提臀瘦肚产后塑身美体裤",
+      "short_name": "收腹内裤高腰收腹提臀产后塑身美体裤",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-09-06/b359c28b9dd0c7c6c3ee7b18fb5d97ca.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-19/debac3ebc859d8aeff4e17c3513138d5.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-19/18961307bb1d018eef2252a92416d2b3.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 2980,
+        "customer_num": 2
+      },
+      "cnt": 136637,
+      "market_price": 9980,
+      "normal_price": 7980,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.015_0.028",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.005",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0054\",\"cvrs\":\"0.0275\",\"ctrs\":\"0.0147\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "本周塑身裤畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=2826642062",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-09-19/9d463362e6294b47a50b10378962e623.jpeg"
+    },
+    {
+      "goods_id": 1063992298,
+      "goods_name": "筷子筒挂式沥水筷子笼家用筷笼厨房筷子架筷子收纳创意筷筒筷子盒",
+      "short_name": "壁挂式筷子筒",
+      "image_url": "http://t00img.yangkeduo.com/t11img/images/2018-04-18/818cc726c58226be1c56118e64c927fc.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-10/3458bdfa0af9ab7ed4df10c25c3d549d.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-10/ad9e860b64d039f729bb1f2f84c2c92e.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1078,
+        "customer_num": 2
+      },
+      "cnt": 131481,
+      "market_price": 3900,
+      "normal_price": 1600,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.014_0.043",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0037\",\"cvrs\":\"0.0426\",\"ctrs\":\"0.0144\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 1080
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=1063992298",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-01-06/8e418c55-12be-46fd-b333-9095c88494b7.jpg"
+    },
+    {
+      "goods_id": 461536706,
+      "goods_name": "臂力棒40公斤30kg臂力器家用健身器材男握力器50公斤扩胸器女20kg",
+      "short_name": "臂力锻炼器臂力棒",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-07-26/b36d7df7752fda4b8ba114107f478c69.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-24/5c3d6c4c16000bd204ce3c6c58fa8c76.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-24/4dc27f2685d01ea0b21fe65301cdfea7.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 870,
+        "customer_num": 2
+      },
+      "cnt": 215270,
+      "market_price": 12000,
+      "normal_price": 2400,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.012_0.060",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0037\",\"cvrs\":\"0.0596\",\"ctrs\":\"0.0120\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "依更美运动户外旗舰店",
+        "price_type": 1,
+        "group_price": 880
+      },
+      "tag_list": [
+        {
+          "text": "退货包运费",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=461536706",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-10-24/e5af0f8b5b8578b16b3941892b682c02.jpeg"
+    },
+    {
+      "goods_id": 1106346558,
+      "goods_name": "汽车临时停车电话号码牌挪车移车号码牌隐藏式车载内饰用品摆件",
+      "short_name": "临时停车电话号码牌卡",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-29/21e7e553fd456543409c9e779dbe7ede.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-29/3ecf8052ab25449fb68a472ccdefc248.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-29/ce01a510da36917b5eb24f1abcc9aa12.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 390,
+        "customer_num": 2
+      },
+      "cnt": 598094,
+      "market_price": 4900,
+      "normal_price": 3580,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.014_0.168",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0036\",\"cvrs\":\"0.1675\",\"ctrs\":\"0.0144\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=1106346558",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-08-29/edcd975a9768d710bb03b7b2d8550370.jpeg"
+    },
+    {
+      "goods_id": 5197971100,
+      "goods_name": "海宁仿羊羔毛皮草外套女短款韩版秋冬新款加厚宽松羊剪绒大衣显瘦",
+      "short_name": "韩版仿羊羔毛皮草外套女宽松大毛领显瘦加厚",
+      "image_url": "https://t00img.yangkeduo.com/goods/images/2018-12-27/33174faa-ffa6-478c-a0b0-956028ca78ee.jpg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-24/1f004fbbebbcfc8f4d795d89fb0db766.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-24/2f898c3c4a3bee9f00eef967287d0f29.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 9880,
+        "customer_num": 2
+      },
+      "cnt": 8026,
+      "market_price": 13100,
+      "normal_price": 13000,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.047_0.003",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0038\",\"cvrs\":\"0.0031\",\"ctrs\":\"0.0469\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼8026件",
+      "link_url": "goods.html?goods_id=5197971100",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-24/245450294b3f4a72672f1f2be6cb3eb6.jpeg"
+    },
+    {
+      "goods_id": 57201592,
+      "goods_name": "女神节礼物【3秒染发】植物染发膏一次性染笔物理遮盖染发剂黑色",
+      "short_name": "3秒白发变黑发",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-11-15/0074f418482cc14aec1347c270dfdcf0.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-19/8b4f74265375d9132ace92f4fd1721ec.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-19/49c11b3bb0cd39da7195cfb845fcbd34.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1290,
+        "customer_num": 2
+      },
+      "cnt": 392045,
+      "market_price": 8900,
+      "normal_price": 1290,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.015_0.040",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.005",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0051\",\"cvrs\":\"0.0403\",\"ctrs\":\"0.0147\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "笛爱儿旗舰店"
+      },
+      "tag_list": [
+        {
+          "text": "本周染发畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=57201592",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-11-19/585eac7744a1d1ff8f989ca320ecf5fc.jpeg"
+    },
+    {
+      "goods_id": 2641735856,
+      "goods_name": "妠芷80-180斤含棉卫衣女连帽2019新款春装宽松长袖上衣显瘦打底衫",
+      "short_name": "卫衣女连帽2018新款秋装宽松长袖上衣",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/945d55bfd5c87f974b1e06ee9e3b74fc.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-18/f2e2de4c845fac68de0e02474164b727.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-18/363ba323bc1e07c565c6fc441c44fd22.jpeg",
+      "is_app": 0,
+      "event_type": 12,
+      "group": {
+        "price": 2990,
+        "customer_num": 2
+      },
+      "cnt": 43883,
+      "market_price": 11800,
+      "normal_price": 8800,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.030_0.009",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.005",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0047\",\"cvrs\":\"0.0094\",\"ctrs\":\"0.0305\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "妠芷依蜀莱专卖店"
+      },
+      "tag_list": [
+        {
+          "text": "本周卫衣畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        }
+      ],
+      "sales_tip": "已拼4.3万件",
+      "link_url": "goods.html?goods_id=2641735856",
+      "hd_url": "http://t00img.yangkeduo.com/openapi/images/2018-08-18/cc1572ed375b6a79932f8bd8ff3817f8.jpeg"
+    },
+    {
+      "goods_id": 3985929674,
+      "goods_name": "高帮鞋男韩版潮流休闲运动鞋秋冬季鞋子男生嘻哈高邦板鞋aj1男鞋",
+      "short_name": "高帮aj1空军一号",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-11-06/bcfda2e9a29efeffdb41e693fbb045a7.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-08/da7d43db1aea9d3b954bdc5de312bd48.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-08/929f2877ab59a072cea84f4915dc3cf4.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 2800,
+        "customer_num": 2
+      },
+      "cnt": 182929,
+      "market_price": 68800,
+      "normal_price": 5080,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.017_0.017",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.008",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0084\",\"cvrs\":\"0.0170\",\"ctrs\":\"0.0173\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 4980
+      },
+      "tag_list": [
+        {
+          "text": "本周高帮鞋畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=3985929674",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-08/bea8ecbe7d276179915094f89f48a234.jpeg"
+    },
+    {
+      "goods_id": 464024240,
+      "goods_name": "【德国品质】磨刀器家用厨房神器磨刀石磨菜刀用品剪刀棒精磨工具",
+      "short_name": "【德国品质】磨刀器家用厨房神器磨刀石用品",
+      "image_url": "http://omsproductionimg.yangkeduo.com/images/2018-01-16/03f827b9214f537cb9ef1319b3edffcd.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-25/7347393d4a9dedd268f72f1162b1e679.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-25/a34c925a817d45bac727bc89f11196b4.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 690,
+        "customer_num": 2
+      },
+      "cnt": 97925,
+      "market_price": 9900,
+      "normal_price": 790,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.015_0.047",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0043\",\"cvrs\":\"0.0470\",\"ctrs\":\"0.0149\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼9.7万件",
+      "link_url": "goods.html?goods_id=464024240",
+      "hd_url": "http://omsproductionimg.yangkeduo.com/images/2017-12-31/d1c2be6f901701d176089ff387cddfbc.jpeg"
+    },
+    {
+      "goods_id": 5189057839,
+      "goods_name": "冬款工装裤男潮牌ins学生韩版休闲裤男士春秋潮流哈伦束脚裤子男",
+      "short_name": "【热卖爆款】ins工装裤男学生潮流裤子男",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-12-25/19ab66fe928f20604c10cdb69879472d.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-25/bba0f6cdb17579eda653af3acc08f489.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-25/54a5763ebedef57a29e5f96d8969acaa.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 2680,
+        "customer_num": 2
+      },
+      "cnt": 30025,
+      "market_price": 15800,
+      "normal_price": 2800,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.018_0.020",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.006",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0056\",\"cvrs\":\"0.0201\",\"ctrs\":\"0.0185\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 2680
+      },
+      "tag_list": [
+        {
+          "text": "本周休闲裤畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "退货包运费",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼3万件",
+      "link_url": "goods.html?goods_id=5189057839",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-25/ada83b0061b3b7a0f7b26ab6200666e4.jpeg"
+    },
+    {
+      "goods_id": 2565477531,
+      "goods_name": "科德佳手机全民K歌神器无线蓝牙儿童麦克风话筒KTV唱歌一体式音响",
+      "short_name": "手机全民K歌神器",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-09-28/66d7f28e1b365287aeeb15bd0e90ea0b.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-10/5d146691ba7f8ed1672d0a74a6a026ca.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-11/55f01ff46a9333c5c36e0e1f007d99d1.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1958,
+        "customer_num": 2
+      },
+      "cnt": 262737,
+      "market_price": 69900,
+      "normal_price": 29900,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.011_0.051",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.012",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0119\",\"cvrs\":\"0.0514\",\"ctrs\":\"0.0105\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "科德佳官方旗舰店",
+        "price_type": 1,
+        "group_price": 19900
+      },
+      "tag_list": [
+        {
+          "text": "退货包运费",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=2565477531",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-11-10/6a08cefe0ad0a04ed8c6b4988682563f.jpeg"
+    },
+    {
+      "goods_id": 5317764550,
+      "goods_name": "白大褂长袖医生服女加厚实验室学生化学大学生医师护士隔离工作服",
+      "short_name": "白大褂长袖医生服女加厚实验室学生化学大学生医师护士隔离工作服",
+      "image_url": "http://t00img.yangkeduo.com/openapi/images/2018-12-29/b75e3469b784b48cabd558700f6ba819.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-29/c7cb27d54791f02fea8550c9aea8b8b9.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-29/f5424ef3d9020b84a7795875b453b9b9.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1200,
+        "customer_num": 2
+      },
+      "cnt": 1012,
+      "market_price": 5000,
+      "normal_price": 1300,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.039_0.025",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0042\",\"cvrs\":\"0.0251\",\"ctrs\":\"0.0394\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "sales_tip": "已拼1012件",
+      "link_url": "goods.html?goods_id=5317764550",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2018-12-27/e7561d7a-ca17-4005-a289-2bcf53dc83c4.jpg"
+    },
+    {
+      "goods_id": 2228936809,
+      "goods_name": "新增强版40颗官方正品酵素梅 酵素青梅 孝素梅乌梅 15颗 酵素梅子",
+      "short_name": "40颗新增强版酵素梅青梅 15颗孝素乌梅",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-10-21/8e47a72fe10cdd7e73993f048fff6671.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-04/9ac7ee3229ce9fa552764668b53943cf.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-04/0be196b8cde51474785b5fd4851f96ad.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1280,
+        "customer_num": 2
+      },
+      "cnt": 154861,
+      "market_price": 17000,
+      "normal_price": 1580,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.011_0.055",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.005",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0049\",\"cvrs\":\"0.0551\",\"ctrs\":\"0.0110\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 1350
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "限时秒杀",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=2228936809",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2018-12-31/b804012d-2281-4951-9bf9-4f0292794710.jpg"
+    },
+    {
+      "goods_id": 3437876,
+      "goods_name": "喜家家棉被收纳袋整理袋衣服打包袋家用装被子的袋子衣物行李袋",
+      "short_name": "【一个可装10斤重被子】加厚无纺布收纳袋",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-09-03/b937be412a78d69608857047c2886384.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-07-27/3a64421ea7e31a3b3f695f85b4c8c518.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-07-27/46e4daea159ff564bd3ae609501ed06b.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 690,
+        "customer_num": 2
+      },
+      "cnt": 457466,
+      "market_price": 2700,
+      "normal_price": 859,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.015_0.046",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0044\",\"cvrs\":\"0.0456\",\"ctrs\":\"0.0147\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "喜家家家居专卖店",
+        "price_type": 1,
+        "group_price": 749
+      },
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=3437876",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-07-27/c3afb2de3d05b2dff08be19be76aee60.jpeg"
+    },
+    {
+      "goods_id": 4455546,
+      "goods_name": "【戒烟神器】易星仿真电子烟 戒烟产品 蒸汽烟 清肺 烟 终身送油",
+      "short_name": "易星仿真电子烟，戒烟神器，智能戒烟不断电",
+      "image_url": "http://omsproductionimg.yangkeduo.com/images/2017-03-31/3906c31ae9e723b251b685dabed65d42.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/t09img/images/2018-05-19/e1b09626b9a57da2f9443649e14355ee.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/t07img/images/2018-05-19/d6e4b002cb0723be07f172ac6b79799d.jpeg",
+      "is_app": 0,
+      "event_type": 2,
+      "group": {
+        "price": 7800,
+        "customer_num": 2
+      },
+      "cnt": 100681,
+      "market_price": 16800,
+      "normal_price": 10800,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.014_0.017",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0037\",\"cvrs\":\"0.0173\",\"ctrs\":\"0.0139\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "easing烟具旗舰店",
+        "price_type": 1,
+        "group_price": 9800
+      },
+      "tag_list": [
+        {
+          "text": "极速发货",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "限时秒杀",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=4455546",
+      "hd_url": "http://t09img.yangkeduo.com/images/2018-05-18/796df9202aa5c6dbd5669e27ec45ac6e.jpeg"
+    },
+    {
+      "goods_id": 2337921124,
+      "goods_name": "南极人 春秋皮衣男 时尚修身保暖外套立领飞行员夹克机车服",
+      "short_name": "南极人 夹克男 加绒保暖皮衣",
+      "image_url": "https://t00img.yangkeduo.com/goods/images/2018-12-27/0ce264e6-2b41-40e8-94a0-c59497fd2558.jpg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-02-13/0057f537e66583196d4cbf4de9fa6e13.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-02-13/dc22a3b07262014fdc63cd22dd8b4f5f.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 4990,
+        "customer_num": 2
+      },
+      "cnt": 12500,
+      "market_price": 39900,
+      "normal_price": 10800,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.017_0.014",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.009",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0090\",\"cvrs\":\"0.0142\",\"ctrs\":\"0.0169\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "南极人喜福缘专卖店",
+        "price_type": 1,
+        "group_price": 7990
+      },
+      "tag_list": [
+        {
+          "text": "本周夹克畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼1.2万件",
+      "link_url": "goods.html?goods_id=2337921124",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-02-13/e3f2eb82-4c38-4c7b-b37b-6b73d9b2a002.jpg"
+    },
+    {
+      "goods_id": 244614165,
+      "goods_name": "康舒砂锅大容量汤锅4800ML-2900ML耐高温炖锅明火直烧陶瓷煲汤煲",
+      "short_name": "大容量康舒砂锅烧坏换新",
+      "image_url": "http://t00img.yangkeduo.com/t04img/images/2018-07-01/7019b155d20c6b8fd34cdbc0d797b73f.jpeg",
+      "thumb_url": "http://omsproductionimg.yangkeduo.com/images/2018-06-08/f8a896d1efd749f5e026622534cff28e.jpeg",
+      "hd_thumb_url": "http://omsproductionimg.yangkeduo.com/images/2018-06-08/60bae0c81f9f270e823ebd69cafcd617.jpeg",
+      "is_app": 0,
+      "event_type": 2,
+      "group": {
+        "price": 2990,
+        "customer_num": 2
+      },
+      "cnt": 207073,
+      "market_price": 9990,
+      "normal_price": 3390,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.013_0.030",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.005",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0048\",\"cvrs\":\"0.0303\",\"ctrs\":\"0.0133\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "康舒柚米专卖店"
+      },
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=244614165",
+      "hd_url": "http://omsproductionimg.yangkeduo.com/images/2017-12-07/3fcd8949b7dc9aefbfa082410abb4d84.jpeg"
+    },
+    {
+      "goods_id": 1650230,
+      "goods_name": "【亏本促销】山兄弟夏威夷果1000g/500g/250g/120g新货薄壳奶油味",
+      "short_name": "新品夏威夷果",
+      "image_url": "http://omsproductionimg.yangkeduo.com/images/2018-01-05/ba2b60b6a80ea1cac9181ed42133d5b1.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-25/592d03eafea8cc342092bea5bff1e2d9.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-09-25/51e068d80c1b5e90c10a06f75483a241.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 990,
+        "customer_num": 2
+      },
+      "cnt": 1162944,
+      "market_price": 6800,
+      "normal_price": 1090,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.015_0.040",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.006",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0061\",\"cvrs\":\"0.0397\",\"ctrs\":\"0.0150\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "tag_list": [
+        {
+          "text": "本周夏威夷果畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=1650230",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-09-25/c0b1aca5b608a32f3c6b32da9830b616.jpeg"
+    },
+    {
+      "goods_id": 455726730,
+      "goods_name": "【bb霜+定妆粉】 美白无暇bb霜素颜霜套装气垫bb遮瑕粉底液多规格",
+      "short_name": "【bb霜+定妆粉】美白无暇bb霜素颜霜",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-10-31/a40b3e3d42c0f89cb3c39876d6d74d64.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-31/59274b0197b4f465bfc6898bcaa54122.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-31/4dc40ac3493b0c7718c7f5308ef5e884.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 623,
+        "customer_num": 2
+      },
+      "cnt": 649403,
+      "market_price": 12800,
+      "normal_price": 1290,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.012_0.054",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.006",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"HANOI_jj-level_rt\",\"mscore\":\"2.0057\",\"cvrs\":\"0.0539\",\"ctrs\":\"0.0125\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "HANOI_jj",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "price_type": 1,
+        "group_price": 890
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=455726730",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-10-31/df4a121accb5fce242ebb3cb75fefffe.jpeg"
+    },
+    {
+      "goods_id": 2055209282,
+      "goods_name": "彩漂剂【马上涨价】彩色衣服漂白剂白色衣服彩色漂白液漂白粉去黄",
+      "short_name": "彩漂剂漂白粉",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-12-11/6f59093dc0d1f2ba2235fd91ca6c13f0.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-09/ca5eef55d71f9790b1cb1f76e6571e9f.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-12-09/d13e935423775d81d63079f82fe01f56.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 990,
+        "customer_num": 2
+      },
+      "cnt": 912839,
+      "market_price": 6600,
+      "normal_price": 1650,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.008_0.092",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0037\",\"cvrs\":\"0.0921\",\"ctrs\":\"0.0077\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "圣洁康旗舰店",
+        "price_type": 1,
+        "group_price": 1290
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=2055209282",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-12-09/ddeaf9669d3d5d68266b063e845b4d97.jpeg"
+    },
+    {
+      "goods_id": 468643907,
+      "goods_name": "【 美国苹果 】秋冬款加绒加厚牛仔裤男士修身休闲宽松直筒裤子男",
+      "short_name": "美国苹果加绒厚牛仔裤",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-11-16/64d1d2d0761b9e2a6def28c0badbbaa0.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-27/ae1055855d998a060561d67ce8c124c6.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-27/bef0c6c104688a875add3785b24b6fbb.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1889,
+        "customer_num": 2
+      },
+      "cnt": 201380,
+      "market_price": 29900,
+      "normal_price": 12800,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.009_0.035",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.008",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0080\",\"cvrs\":\"0.0348\",\"ctrs\":\"0.0090\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "AEMAPE华儿道专卖店",
+        "price_type": 1,
+        "group_price": 7990
+      },
+      "tag_list": [
+        {
+          "text": "本周牛仔裤畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "退货包运费",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=468643907",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-01-27/6f3c6c75-a5dd-4a23-be2a-6f3e438d6f75.jpg"
+    },
+    {
+      "goods_id": 5408503425,
+      "goods_name": "佳龙亲亲嘴100片盒装红烧牛肉味麦辣鸡汁味重庆亲嘴烧辣片60/10片",
+      "short_name": "佳龙亲亲嘴盒装100片10片60片混合",
+      "image_url": "https://t00img.yangkeduo.com/goods/images/2019-01-03/651495da-896d-4262-9d65-eab20c8dd0a6.jpg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-03/f9baaa7b4a177ba1cb2933b26c4b18fa.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-03/6a737ae960d0468ae4661d58385b3547.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 528,
+        "customer_num": 2
+      },
+      "cnt": 3478,
+      "market_price": 2380,
+      "normal_price": 680,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.013_0.052",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"HANOI_jj-level_rt\",\"mscore\":\"2.0042\",\"cvrs\":\"0.0523\",\"ctrs\":\"0.0126\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "HANOI_jj",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "望霄食品旗舰店",
+        "price_type": 1,
+        "group_price": 550
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        }
+      ],
+      "sales_tip": "已拼3478件",
+      "link_url": "goods.html?goods_id=5408503425",
+      "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-01-03/e3d0efa5-cd4d-4ba0-8128-29717de48625.jpg"
+    },
+    {
+      "goods_id": 3343425294,
+      "goods_name": "免拉免夹一梳直永久直发膏柔顺软化膏离子烫直发梳持久定型顺直膏",
+      "short_name": "免拉免夹一梳直永久直发膏柔顺软化膏离子烫直发梳持久定型顺直膏",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-10-14/c73c96bb352d68710ee7e168ff386f9e.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-14/f6eb959bbc0b7bf92e562a795bae9c81.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-10-14/96ffa3238f060a5183d702db3dacdb32.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1680,
+        "customer_num": 2
+      },
+      "cnt": 109407,
+      "market_price": 16800,
+      "normal_price": 2500,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.014_0.033",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0037\",\"cvrs\":\"0.0331\",\"ctrs\":\"0.0140\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "诗雨蔻官方旗舰店",
+        "price_type": 1,
+        "group_price": 1880
+      },
+      "tag_list": [
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=3343425294",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-10-14/9fa1a0cc75efe40c46a8088a37439bc0.jpeg"
+    },
+    {
+      "goods_id": 254667679,
+      "goods_name": "【明天涨价】【加绒保暖衬衫】秋男士保暖加厚长袖寸衫格子衬衣服",
+      "short_name": "2018秋冬长袖加绒加厚格子印花保暖衬衫",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-11-27/45709e366eae83293d78ee59d8613a0a.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-20/f27b48f3c5f38e6cd0821bf8218613fe.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-20/a0cd5330cf01fbb7f16e8e5745caad52.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 1740,
+        "customer_num": 2
+      },
+      "cnt": 808702,
+      "market_price": 12800,
+      "normal_price": 3990,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.011_0.037",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.006",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"OFF_d2i-level_static\",\"mscore\":\"2.0061\",\"cvrs\":\"0.0365\",\"ctrs\":\"0.0114\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "OFF_d2i",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "CYJC服饰旗舰店",
+        "price_type": 1,
+        "group_price": 2990
+      },
+      "tag_list": [
+        {
+          "text": "本周衬衫畅销前十",
+          "text_color": "#FF5706",
+          "type": 11
+        },
+        {
+          "text": "极速退款",
+          "text_color": "#FF5706",
+          "type": 6
+        },
+        {
+          "text": "爱逛街",
+          "text_color": "#FF5706",
+          "type": 4
+        }
+      ],
+      "sales_tip": "已拼10万+件",
+      "link_url": "goods.html?goods_id=254667679",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-10-31/864e35ace6c3c090ec8121e05c7b0604.jpeg"
+    },
+    {
+      "goods_id": 207833466,
+      "goods_name": "三层夹棉睡衣女冬加厚法兰绒老人妈妈中老年家居服珊瑚绒套装棉袄",
+      "short_name": "三层夹棉睡衣女冬加厚法兰绒老人妈妈中老年家居服珊瑚绒套装棉袄",
+      "image_url": "http://t00img.yangkeduo.com/goods/images/2018-12-08/cb4cb5be1b9e377b675cdb19dc72e915.jpeg",
+      "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-15/cf7e52a74dba15b69ddacd4a16837306.jpeg",
+      "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-15/3538b7767c6903d3005206ecd629351f.jpeg",
+      "is_app": 0,
+      "event_type": 0,
+      "group": {
+        "price": 5390,
+        "customer_num": 2
+      },
+      "cnt": 26290,
+      "market_price": 27900,
+      "normal_price": 9900,
+      "p_rec": {
+        "fScore": "0.008",
+        "ctvr": "0.024_0.010",
+        "triIds": "1",
+        "list_id": "qBEGa5VNYD",
+        "mScore": "2.004",
+        "conMapJson": "{\"trinum\":1,\"mtlv\":\"HANOI_jj-level_rt\",\"mscore\":\"2.0042\",\"cvrs\":\"0.0099\",\"ctrs\":\"0.0237\"}",
+        "g": "0-base",
+        "bk": "76",
+        "m": "HANOI_jj",
+        "rankPolicy": "0",
+        "app_name": "new_homepage",
+        "t": "1",
+        "pv_id": "5fa78305-f882-4c22-b5e4-2e91b4fea019",
+        "ut": "RiskBanned#TEST,PriceBanned#N25,DirectDsrBanned#BASE,AbnormalTagTestBanned#BASE"
+      },
+      "is_assist": 0,
+      "assist_count": 0,
+      "ext": {
+        "mall": "秋水名媛旗舰店",
+        "price_type": 1,
+        "group_price": 5500
+      },
+      "sales_tip": "已拼2.6万件",
+      "link_url": "goods.html?goods_id=207833466",
+      "hd_url": "http://t00img.yangkeduo.com/goods/images/2018-11-15/8d3da1f7a7b0933609b93534b7a30b4f.jpeg"
+    }
+  ]
+}
